@@ -65,7 +65,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/adamchlus"
-
+header:
+  image: /assets/images/header_image.jpg
 
 footer:
   links:
