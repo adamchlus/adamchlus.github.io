@@ -10,7 +10,7 @@ feature_row:
     url : "https://hackaday.io/project/12724-handheld-vnir-spectrometer"
     btn_label: "More info"
    
-  - image_path: /assets/images/projects/pulse.png
+  - image_path: /assets/images/projects/pulse.jpg
     alt: "placeholder image 2"
     title: "PULSE"
     excerpt: Profiling Underwater Light SEnsor"
