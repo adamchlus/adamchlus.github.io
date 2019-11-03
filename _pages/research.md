@@ -1,4 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: ""
+header:
+  image: /assets/images/rs_header.jpg
 ---
