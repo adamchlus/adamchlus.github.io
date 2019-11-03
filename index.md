@@ -2,7 +2,7 @@
 permalink: / 
 title: "" 
 header: 
-  image: /assets/images/about_header.png
+  image: /assets/images/about_header.jpg
 author_profile: true
 
 ---
