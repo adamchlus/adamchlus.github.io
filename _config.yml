@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Adam Chlus"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student the University of Wisconsin"
+  bio    : "PhD student at the University of Wisconsin"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
