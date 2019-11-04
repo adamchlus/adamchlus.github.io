@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/images/projects/pulse.jpg
     alt: "placeholder image 2"
     title: "PULSE"
-    excerpt: Profiling Underwater Light SEnsor"
+    excerpt: "Profiling Underwater Light SEnsor"
     url: "https://hackaday.io/project/12125-pulse-profiling-underwater-light-sensor"
     btn_label: "More info"
 
