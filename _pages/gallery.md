@@ -16,7 +16,7 @@ gallery:
     title: "Students collecting leaf spectra on Blackhawk Island"
   - url: /assets/images/gallery/validation.jpg
     image_path: /assets/images/gallery/validation.jpg 
-    title: "Ben alligning the spectrometer for validation measurments"
+    title: "Ben alligning the spectrometer for validation measurements"
   - url: /assets/images/gallery/last_flight.jpg
     image_path: /assets/images/gallery/last_flight.jpg 
     title: "Last flight of 2018"
