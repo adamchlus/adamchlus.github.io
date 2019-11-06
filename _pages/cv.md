@@ -65,27 +65,27 @@ header:
 ## Publications
 - Serbin S.P., Wu J., Ely K.S., Kruger E.L., Townsend P.A., Meng R., Wolfe B.T., **Chlus A.**, Wang Z.,
 Rogers A. (2019). From the Arctic to the tropics: multi-biome prediction of leaf mass per area using
-leaf reflectance. *New Phytologist.*  
+leaf reflectance. New Phytologist.  
 - Dierssen H.M., Bostrom K.J.,**Chlus A.**, Hammerstrom K., Thompson D.R., Lee Z. (2019). Pushing
 the limits of seagrass remote sensing in the turbid waters of
-Elkhorn Slough, California. *Remote Sensing.* 11(14).  
+Elkhorn Slough, California. Remote Sensing. 11(14).  
 -  Khan, A. L., Dierssen H., Schwarz J.P.,Schmitt C., **Chlus A.**, Hermanson M., Painter T. H.,
 McKnight D. M. (2017). Impacts of coal dust from an active mine on the spectral reﬂectance of Arctic
-surface snow in Svalbard, Norway. *Journal of Geophysical Research: Atmospheres*. 122:1767-1778.  
+surface snow in Svalbard, Norway. Journal of Geophysical Research: Atmospheres. 122:1767-1778.  
 -  Dierssen H., McManus G.B., **Chlus A.**, Qiu D., Bo-Cai G., Lin S. (2015). Space station captures a
-red tide ciliate bloom at high spectral and spatial resolution. *Proceedings of the National Academy
-of Sciences*. 112(48): 14783-14787.  
+red tide ciliate bloom at high spectral and spatial resolution. Proceedings of the National Academy
+of Sciences. 112(48): 14783-14787.  
 -  Dierssen H. M., **Chlus A.**, Russell B. (2015). Hyperspectral
 discrimination of floating mats of seagrass wrack and the macroalgae Sargassum in coastal waters of
-Greater Florida Bay using airborne remote sensing. *Remote Sensing of Environment.* 167: 247-258.
+Greater Florida Bay using airborne remote sensing. Remote Sensing of Environment. 167: 247-258.
 
 ## Presentations
 
-- **Chlus, A.**, Wang, Z., Kruger, E., Townsend, P.*Integration of NEON imaging spectroscopy and LiDAR data for 3-dimensional canopy trait mapping.* ForestSAT. College Park, MD. 2018  
-- **Chlus, A.**, Townsend, P., Wang, Z., Singh, A. *Remote sensing spectroscopy to discriminate plant functional types and physiological function*. IEEE Geoscience and Remote Sensing Society Annual Conference. Fort Worth, TX. 2017  
-- **Chlus, A.**, Singh, A., Townsend, P. *Apparent drivers of forest functional trait retrievals in imaging spectroscopy data. Ecological Society of America Annual Conference*. Fort Lauderdale, FL. 2016  
-- **Chlus, A.**, Dierssen, H. *Discrimination of floating coastal vegetation using airborne
-  hyperspectral imagery.* NASA Ocean Color Remote Sensing Team Conference. Washington D.C. 2014
+- **Chlus, A.**, Wang, Z., Kruger, E., Townsend, P. Integration of NEON imaging spectroscopy and LiDAR data for 3-dimensional canopy trait mapping. ForestSAT. College Park, MD. 2018  
+- **Chlus, A.**, Townsend, P., Wang, Z., Singh, A. Remote sensing spectroscopy to discriminate plant functional types and physiological function. IEEE Geoscience and Remote Sensing Society Annual Conference. Fort Worth, TX. 2017  
+- **Chlus, A.**, Singh, A., Townsend, P. Apparent drivers of forest functional trait retrievals in imaging spectroscopy data. Ecological Society of America Annual Conference. Fort Lauderdale, FL. 2016  
+- **Chlus, A.**, Dierssen, H. Discrimination of floating coastal vegetation using airborne
+  hyperspectral imagery. NASA Ocean Color Remote Sensing Team Conference. Washington D.C. 2014
 
 
 ## Honors and Awards

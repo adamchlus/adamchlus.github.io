@@ -19,7 +19,7 @@ feature_row:
 
   - image_path: /assets/images/projects/conifer_cup.jpg
     title: "Conifer Cup"
-    excerpt: "3D printed sample holder for measuring conifer spectra"
+    excerpt: "3D printed device for measuring conifer spectra"
 
 ---
 

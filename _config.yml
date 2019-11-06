@@ -50,7 +50,7 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+  - jekyll-paginateitt
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed

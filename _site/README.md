@@ -1,3 +1,2 @@
-# Minimal Mistakes personal site
 
-[Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+My personal website [adamchlus.github.io](https://adamchlus.github.io).
