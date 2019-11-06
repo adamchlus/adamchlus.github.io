@@ -52,25 +52,27 @@ and atmospheric correction routines.
 Imagers are mostly limited to seeing the top of the canopy but foliar biochemistry also varies
 through the vertical profile of the canopy, driven largely by within-canopy environmental
 gradients. **Using imaging spectroscopy to map top-of-canopy biochemistry and LiDAR to model the
-within-canopy light enviroment I'm developing methods to map canopy biomchemistry in 3-dimensions.**  
-Move the slider to compare natural color RGB and 3d RGB.
-    
-  <link rel="stylesheet" href="/assets/css/BeerSlider.css">
+within-canopy light enviroment I'm developing methods to map canopy biomchemistry in 3-dimensions.**   
+
+<link rel="stylesheet" href="/assets/css/BeerSlider.css">
   <script src="/assets/js/BeerSlider.js"></script>
   <script>
     new BeerSlider(document.getElementById('slider'));
   </script>
 
 <div id="slider" class="beer-slider" data-beer-label="">
-  <img src="/assets/images/research/3d_rgb.png" alt="">
+  <img src="/assets/images/research/3d_rgb.jpg" alt="">
   <div class="beer-reveal" data-beer-label="">
-    <img src="/assets/images/research/rgb_rgb.png" alt="">
+    <img src="/assets/images/research/rgb_rgb.jpg" alt="">
   </div>
 </div>
  
 <script> 
 new BeerSlider(document.getElementById('slider'));  
     </script>
+
+Move the slider to compare natural color RGB and 3D RGB map of leaf mass per area.  
+
 
 # Software
 Whenever I can I use open-source software in my reseach and rely heavily on Python for most data analyses. In cases
