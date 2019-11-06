@@ -67,7 +67,7 @@ within-canopy light enviroment I'm developing methods to map canopy biomchemistr
   </div>
 </div>
  
-<script type="text/javascript"></script>
+<script type="text/javascript">
 new BeerSlider(document.getElementById('slider'));  
     </script>
 
