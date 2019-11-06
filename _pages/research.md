@@ -54,8 +54,8 @@ through the vertical profile of the canopy, driven largely by within-canopy envi
 gradients. **Using imaging spectroscopy to map top-of-canopy biochemistry and LiDAR to model the
 within-canopy light enviroment I'm developing methods to map canopy biomchemistry in 3-dimensions.**   
 
-<link rel="stylesheet" href="/assets/css/BeerSlider.css">
-<script src="/assets/js/beerslider.js" type="text/javascript" ></script>
+<link rel="stylesheet" href="/assets/css/slider.css">
+<script src="/assets/js/slider.js" type="text/javascript" ></script>
 
 <div id="slider" class="beer-slider" data-beer-label="">
   <img src="/assets/images/research/3d_rgb.jpg" alt="">
