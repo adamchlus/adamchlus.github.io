@@ -55,7 +55,7 @@ gradients. **Using imaging spectroscopy to map top-of-canopy biochemistry and Li
 within-canopy light enviroment I'm developing methods to map canopy biomchemistry in 3-dimensions.**   
 
 <link rel="stylesheet" href="/assets/css/BeerSlider.css">
-  <script src="/assets/js/BeerSlider.js" type="text/javascript" ></script>
+<script src="/assets/js/beerslider.js" type="text/javascript" ></script>
 
 <div id="slider" class="beer-slider" data-beer-label="">
   <img src="/assets/images/research/3d_rgb.jpg" alt="">
@@ -65,8 +65,8 @@ within-canopy light enviroment I'm developing methods to map canopy biomchemistr
 </div>
  
 <script type="text/javascript">
-new BeerSlider(document.getElementById('slider'));  
-    </script>
+	new BeerSlider(document.getElementById('slider'));
+</script>
 
 Move the slider to compare natural color RGB and 3D RGB map of leaf mass per area.  
 
