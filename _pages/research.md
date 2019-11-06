@@ -56,9 +56,6 @@ within-canopy light enviroment I'm developing methods to map canopy biomchemistr
 
 <link rel="stylesheet" href="/assets/css/BeerSlider.css">
   <script src="/assets/js/BeerSlider.js"></script>
-  <script>
-    new BeerSlider(document.getElementById('slider'));
-  </script>
 
 <div id="slider" class="beer-slider" data-beer-label="">
   <img src="/assets/images/research/3d_rgb.jpg" alt="">
