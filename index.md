@@ -16,7 +16,7 @@ ecosystems at multiple scales (leaf, suborbital and space). I use a variety of t
 including [field spectrometers](/research/#leaf-level-spectroscopy),
 [airborne and spaceborne imaging spectrometers](/research/#imaging-spectroscopy)
 and [LiDAR](/research/#lidar). My research has also required me to design and build custom tools for
-[collecting data and making measurements](/research/#tools)
+[collecting samples and making measurements](/research/#tools)
 and [processing data](/research/#software).
 
 I also have an interest in electronics and optics, and as a hobby I’m working on developing
