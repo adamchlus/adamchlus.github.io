@@ -14,7 +14,7 @@ header:
 - **University of Wisconsin, Madison, WI**  
 	PhD Forestry (May 2020)  
 	Dissertation: *Investigating the patterns and drivers of foliar biochemistry through space and time with 
-	imaging spectroscopy and LiDAR.*  
+	imaging spectroscopy and lidar.*  
 	
 - **University of Connecticut, Storrs, CT**  
 	M.S. Natural Resources 2015   
@@ -81,7 +81,7 @@ Greater Florida Bay using airborne remote sensing. Remote Sensing of Environment
 
 ## Presentations
 
-- **Chlus, A.**, Wang, Z., Kruger, E., Townsend, P. Integration of NEON imaging spectroscopy and LiDAR data for 3-dimensional canopy trait mapping. ForestSAT. College Park, MD. 2018  
+- **Chlus, A.**, Wang, Z., Kruger, E., Townsend, P. Integration of NEON imaging spectroscopy and lidar data for 3-dimensional canopy trait mapping. ForestSAT. College Park, MD. 2018  
 - **Chlus, A.**, Townsend, P., Wang, Z., Singh, A. Remote sensing spectroscopy to discriminate plant functional types and physiological function. IEEE Geoscience and Remote Sensing Society Annual Conference. Fort Worth, TX. 2017  
 - **Chlus, A.**, Singh, A., Townsend, P. Apparent drivers of forest functional trait retrievals in imaging spectroscopy data. Ecological Society of America Annual Conference. Fort Lauderdale, FL. 2016  
 - **Chlus, A.**, Dierssen, H. Discrimination of floating coastal vegetation using airborne
@@ -89,7 +89,6 @@ Greater Florida Bay using airborne remote sensing. Remote Sensing of Environment
 
 
 ## Honors and Awards
-       
 - NASA Data Visualization and Storytelling Competition Runner-up ($1000)   **2019**  
 - Hackaday Prize Semifinalist ($1000)							           **2016**  
 - 1st place UConn CANR Graduate Research Forum 						       **2014**  
