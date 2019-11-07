@@ -68,7 +68,7 @@ within-canopy light enviroment I'm developing methods to map canopy biomchemistr
 	new BeerSlider(document.getElementById('slider'));
 </script>
 
-Move the slider to compare natural color image and 3D RGB map of leaf mass per area.  
+Move the slider to compare a natural color image and 3D RGB map of leaf mass per area.  
 
 
 # Software
