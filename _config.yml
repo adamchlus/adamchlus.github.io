@@ -13,6 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# Analytics
+analytics:
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "UA-151712572-1" 
+    anonymize_ip         : false
+
+
 title:
 email:
 description: >- # this means to ignore newlines until "baseurl:"
