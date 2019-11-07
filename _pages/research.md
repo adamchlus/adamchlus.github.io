@@ -30,7 +30,7 @@ gallery4:
 
 # Leaf level spectroscopy  
 Leaf-level chemometric spectroscopy is a non-destuctive method for rapidly characterizing the
-chemical content of leaves (ex: nitrogen, phosphorus, calcium, sugars....). **I'm investigating
+chemical content of leaves (ex: nitrogen, phosphorus, calcium, sugars). **I'm investigating
 how the relationships between spectra and chemistry change through time and across plant types
 to develop more robust predictive models.**  
 
@@ -68,7 +68,7 @@ within-canopy light enviroment I'm developing methods to map canopy biomchemistr
 	new BeerSlider(document.getElementById('slider'));
 </script>
 
-Move the slider to compare natural color RGB and 3D RGB map of leaf mass per area.  
+Move the slider to compare snatural color image and 3D RGB map of leaf mass per area.  
 
 
 # Software
