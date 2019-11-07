@@ -48,10 +48,10 @@ and atmospheric correction routines.
 {% include gallery id="gallery2" layout = '' %}
 
 
-# LiDAR
+# Lidar
 Imagers are mostly limited to seeing the top of the canopy but foliar biochemistry also varies
 through the vertical profile of the canopy, driven largely by within-canopy environmental
-gradients. **Using imaging spectroscopy to map top-of-canopy biochemistry and LiDAR to model the
+gradients. **Using imaging spectroscopy to map top-of-canopy biochemistry and lidar to model the
 within-canopy light environment I'm developing methods to map canopy biochemistry in 3 dimensions.**   
 
 <link rel="stylesheet" href="/assets/css/slider.css">
