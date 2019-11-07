@@ -97,5 +97,7 @@ Greater Florida Bay using airborne remote sensing. Remote Sensing of Environment
 
 ## Outreach and Mentoring
 -  Minorities in Agriculture, Natural Resources and Related Sciences Youth Leadership Institute **2017**  
+   - Designed and lead lab exercise introducing high school students to the basics of leaf optical
+     properties and their application to ecological research.
 -  Independent study mentor Biology 152  **2017**  
 
