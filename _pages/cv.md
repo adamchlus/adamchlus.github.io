@@ -81,6 +81,9 @@ Greater Florida Bay using airborne remote sensing. Remote Sensing of Environment
 
 ## Presentations
 
+- **Chlus, A**, Singh A., Kruger E., Townsend P. Patterns and Drivers of Interannual Variation in
+  Canopy Biochemistry: an Analysis of the 27-year Record of Imaging Spectroscopy Data Over Blackhawk
+  Island, WI (1992-2019). AGU. San Francisco, CA. 2019  
 - **Chlus, A.**, Wang, Z., Kruger, E., Townsend, P. Integration of NEON imaging spectroscopy and lidar data for 3-dimensional canopy trait mapping. ForestSAT. College Park, MD. 2018  
 - **Chlus, A.**, Townsend, P., Wang, Z., Singh, A. Remote sensing spectroscopy to discriminate plant functional types and physiological function. IEEE Geoscience and Remote Sensing Society Annual Conference. Fort Worth, TX. 2017  
 - **Chlus, A.**, Singh, A., Townsend, P. Apparent drivers of forest functional trait retrievals in imaging spectroscopy data. Ecological Society of America Annual Conference. Fort Lauderdale, FL. 2016  
