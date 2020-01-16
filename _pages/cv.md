@@ -69,7 +69,7 @@ contrasting physiological effects of late blight and early blight in potato. Rem
 - Serbin S.P., Wu J., Ely K.S., Kruger E.L., Townsend P.A., Meng R., Wolfe B.T., **Chlus A.**, Wang Z.,
 Rogers A. (2019). From the Arctic to the tropics: multi-biome prediction of leaf mass per area using
 leaf reflectance. New Phytologist.  
-- Dierssen H.M., Bostrom K.J.,**Chlus A.**, Hammerstrom K., Thompson D.R., Lee Z. (2019). Pushing
+- Dierssen H.M., Bostrom K.J., **Chlus A.**, Hammerstrom K., Thompson D.R., Lee Z. (2019). Pushing
 the limits of seagrass remote sensing in the turbid waters of
 Elkhorn Slough, California. Remote Sensing. 11(14).  
 -  Khan, A. L., Dierssen H., Schwarz J.P.,Schmitt C., **Chlus A.**, Hermanson M., Painter T. H.,
