@@ -63,7 +63,7 @@ header:
 - GDAL, QGIS, ENVI, Ecognition, ERDAS Imagine, ArcGIS  
 	
 ## Publications
-- Gold K.M., Townsend P.A., **Chlus, A.**, Herrmann I., Couture J.J., Larson E.R., Gevens
+- Gold K.M., Townsend P.A., **Chlus A.**, Herrmann I., Couture J.J., Larson E.R., Gevens
 A.J. (2020).  Hyperspectral measurements enable pre-symptomatic detection and differentiation of
 contrasting physiological effects of late blight and early blight in potato. Remote Sensing. 12(2).  
 - Serbin S.P., Wu J., Ely K.S., Kruger E.L., Townsend P.A., Meng R., Wolfe B.T., **Chlus A.**, Wang Z.,
