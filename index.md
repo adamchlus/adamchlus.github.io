@@ -12,7 +12,7 @@ layout: single
 I'm currently a PhD student in the Environmental Spectroscopy Lab (ENSPEC) in the Department of
 Forest and Wildlife Ecology at the University of Wisconsin. I'm researching how light interacts with
 vegetation and how relationships derived from those interactions can be used to monitor and measure
-ecosystems at multiple scales (leaf, suborbital and space). I use a variety of tools in my reseach
+ecosystems at multiple scales (leaf, suborbital and space). I use a variety of tools in my research
 including [field spectrometers](/research/#leaf-level-spectroscopy),
 [airborne and spaceborne imaging spectrometers](/research/#imaging-spectroscopy)
 and [lidar](/research/#lidar). My research has also required me to design and build custom tools for
