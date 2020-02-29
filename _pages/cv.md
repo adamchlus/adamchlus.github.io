@@ -63,6 +63,8 @@ header:
 - GDAL, QGIS, ENVI, Ecognition, ERDAS Imagine, ArcGIS  
 	
 ## Publications
+- **Chlus A.**, Kruger E.L., Townsend P.A. Mapping leaf mass per area in three dimensions with
+  imaging spectroscopy and lidar in a temperate broadleaf forest. *In review*  
 - Gold K.M., Townsend P.A., **Chlus A.**, Herrmann I., Couture J.J., Larson E.R., Gevens
 A.J. (2020).  Hyperspectral measurements enable pre-symptomatic detection and differentiation of
 contrasting physiological effects of late blight and early blight in potato. Remote Sensing. 12(2).  
