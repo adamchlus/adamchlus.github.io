@@ -12,7 +12,7 @@ header:
 ## Education
 
 - **University of Wisconsin, Madison, WI**  
-	PhD Forestry (May 2020)  
+	PhD Forestry (Summer 2020)  
 	Dissertation: *Investigating the patterns and drivers of foliar biochemistry through space and time with 
 	imaging spectroscopy and lidar.*  
 	
