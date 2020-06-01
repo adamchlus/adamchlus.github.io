@@ -67,25 +67,25 @@ header:
   imaging spectroscopy and lidar in a temperate broadleaf forest. *In review*  
 - Wang Z., **Chlus A.**, Geygan R., Ye Z., Zheng T., Singh A., Couture J.J., Cavender-Bares J.,
 Kruger E.L., Townsend P.A. (2020). Foliar functional traits from imaging spectroscopy across 
-biomes in eastern North America. New Phytologist.  
+biomes in eastern North America. *New Phytologist*.  
 - Gold K.M., Townsend P.A., **Chlus A.**, Herrmann I., Couture J.J., Larson E.R., Gevens
 A.J. (2020).  Hyperspectral measurements enable pre-symptomatic detection and differentiation of
-contrasting physiological effects of late blight and early blight in potato. Remote Sensing. 12(2).  
+contrasting physiological effects of late blight and early blight in potato. *Remote Sensing*. 12(2).  
 - Serbin S.P., Wu J., Ely K.S., Kruger E.L., Townsend P.A., Meng R., Wolfe B.T., **Chlus A.**, Wang Z.,
 Rogers A. (2019). From the Arctic to the tropics: multi-biome prediction of leaf mass per area using
-leaf reflectance. New Phytologist. 224(4)  
+leaf reflectance. *New Phytologist*. 224(4)  
 - Dierssen H.M., Bostrom K.J., **Chlus A.**, Hammerstrom K., Thompson D.R., Lee Z. (2019). Pushing
 the limits of seagrass remote sensing in the turbid waters of
-Elkhorn Slough, California. Remote Sensing. 11(14).  
+Elkhorn Slough, California. *Remote Sensing*. 11(14).  
 -  Khan, A. L., Dierssen H., Schwarz J.P.,Schmitt C., **Chlus A.**, Hermanson M., Painter T. H.,
 McKnight D. M. (2017). Impacts of coal dust from an active mine on the spectral reﬂectance of Arctic
-surface snow in Svalbard, Norway. Journal of Geophysical Research: Atmospheres. 122:1767-1778.  
+surface snow in Svalbard, Norway. *Journal of Geophysical Research: Atmospheres*. 122:1767-1778.  
 -  Dierssen H., McManus G.B., **Chlus A.**, Qiu D., Bo-Cai G., Lin S. (2015). Space station captures a
-red tide ciliate bloom at high spectral and spatial resolution. Proceedings of the National Academy
-of Sciences. 112(48): 14783-14787.  
+red tide ciliate bloom at high spectral and spatial resolution. *Proceedings of the National Academy
+of Sciences*. 112(48): 14783-14787.  
 -  Dierssen H. M., **Chlus A.**, Russell B. (2015). Hyperspectral
 discrimination of floating mats of seagrass wrack and the macroalgae Sargassum in coastal waters of
-Greater Florida Bay using airborne remote sensing. Remote Sensing of Environment. 167: 247-258.
+Greater Florida Bay using airborne remote sensing. *Remote Sensing of Environment*. 167: 247-258.
 
 ## Presentations
 
