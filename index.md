@@ -15,7 +15,7 @@ vegetation and how relationships derived from those interactions can be used to 
 ecosystems at multiple scales (leaf, suborbital and space). I use a variety of tools in my research
 including [field spectrometers](/research/#leaf-level-spectroscopy),
 [airborne and spaceborne imaging spectrometers](/research/#imaging-spectroscopy)
-and [lidar](/research/#lidar). My research has also required me to design and build custom tools for
+and [lidar](/research/#lidar). Along the way I have also designed and built custom tools for
 [collecting samples and making measurements](/research/#tools)
 and [processing data](/research/#software).
 
