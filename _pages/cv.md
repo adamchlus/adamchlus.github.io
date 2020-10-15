@@ -64,13 +64,13 @@ header:
 	
 ## Publications
 - **Chlus A.**, Kruger E.L., Townsend P.A. (2020) Mapping leaf mass per area in three dimensions with
-imaging spectroscopy and lidar in a temperate broadleaf forest.*Remote Sensing of Environment*. 250.
+imaging spectroscopy and lidar in a temperate broadleaf forest. *Remote Sensing of Environment*. 250.
 - Meireles J.E., Cavender‐Bares J., Townsend P.A., Ustin S., Gamon J.A., Schweiger A.K., Schaepman M.E.,
 Asner G.A, Martin R.E, Singh A., Schrodt F., **Chlus A.**, O'Meara B.C. (2020). Leaf reflectance spectra 
-capture the evolutionary history of seed plants. New Phytologist, 228(2), 485-493.
+capture the evolutionary history of seed plants. *New Phytologist*. 228(2), 485-493.
 - Wang Z., **Chlus A.**, Geygan R., Ye Z., Zheng T., Singh A., Couture J.J., Cavender-Bares J.,
 Kruger E.L., Townsend P.A. (2020). Foliar functional traits from imaging spectroscopy across 
-biomes in eastern North America. *New Phytologist*.  
+biomes in eastern North America. *New Phytologist*. 228: 494-511.  
 - Gold K.M., Townsend P.A., **Chlus A.**, Herrmann I., Couture J.J., Larson E.R., Gevens
 A.J. (2020).  Hyperspectral measurements enable pre-symptomatic detection and differentiation of
 contrasting physiological effects of late blight and early blight in potato. *Remote Sensing*. 12(2).  
