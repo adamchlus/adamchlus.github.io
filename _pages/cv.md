@@ -14,9 +14,8 @@ header:
 - **University of Wisconsin, Madison, WI**  
 	PhD Forestry 2020
 - **University of Connecticut, Storrs, CT**  
-	MS Natural Resources 2015
-- **University of Connecticut, Storrs, CT**  
-	BS Environmental Science 2011
+	MS Natural Resources 2015  
+	BS Environmental Science 2011  
 
 ## Experience
 
