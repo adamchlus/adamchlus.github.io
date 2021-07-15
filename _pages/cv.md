@@ -35,7 +35,7 @@ header:
 	sensing platforms for identifying and tracking floating aquatic vegetation.
   - Developed methods for detecting algal blooms using a spaceborne hyperspectral imager.
 
-**Jet Propulsion Laboratory, Pasadena, CA** ( 2014)  
+**Jet Propulsion Laboratory, Pasadena, CA** (2014)  
   *Suborbital Radar Science Intern*
   - Used multi-platform remote sensing products to characterize long-term patterns in growth and
 	disturbance in a boreal forest ecosystem.
