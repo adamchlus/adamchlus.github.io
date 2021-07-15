@@ -28,11 +28,11 @@ gallery4:
     title: "Top of canopy sampling tool"
 ---
 
-# Leaf level spectroscopy  
+# Leaf level spectroscopy
 Leaf-level chemometric spectroscopy is a non-destuctive method for rapidly characterizing the
 chemical content of leaves (ex: nitrogen, phosphorus, calcium, sugars). **I'm investigating
 how the relationships between spectra and chemistry change through time and across plant types
-to develop more robust predictive models.**  
+to develop more robust predictive models.**
 
 {% include gallery id="gallery1" layout = '' %}
 
@@ -52,7 +52,7 @@ and atmospheric correction routines.
 Imagers are mostly limited to seeing the top of the canopy but foliar biochemistry also varies
 through the vertical profile of the canopy, driven largely by within-canopy environmental
 gradients. **Using imaging spectroscopy to map top-of-canopy biochemistry and lidar to model the
-within-canopy light environment I'm developing methods to map canopy biochemistry in 3 dimensions.**   
+within-canopy light environment I'm developing methods to map canopy biochemistry in 3 dimensions.**
 
 <link rel="stylesheet" href="/assets/css/slider.css">
 <script src="/assets/js/slider.js" type="text/javascript" ></script>
@@ -63,27 +63,27 @@ within-canopy light environment I'm developing methods to map canopy biochemistr
     <img src="/assets/images/research/rgb_rgb.jpg" alt="">
   </div>
 </div>
- 
+
 <script type="text/javascript">
 	new BeerSlider(document.getElementById('slider'));
 </script>
 
-Move the slider to compare a natural color image and 3D RGB map of leaf mass per area.  
+Move the slider to compare a natural color image and 3D RGB map of leaf mass per area.
 
 
 # Software
 Whenever I can I use open-source software in my reseach and rely heavily on Python for most data analyses. In cases
-where open-source software isn't available I develop my own, here are a few examples: 
+where open-source software isn't available I develop my own, here are a few examples:
 
-- [HyTools](https://github.com/EnSpec/HyTools-sandbox) : Collaborative effort with other members of the ENSPEC lab to
-  develop tools for processing imaging spectoscopy data  
-- [pypwaves](https://github.com/adamchlus/pypwaves) : Full waveform LiDAR reading and processing library  
-- [specIO](https://github.com/adamchlus/specIO) : Field spectrometer data reader (ASD, OO, SE and SVC)  
-- [specGUI](https://github.com/adamchlus/specGUI) : A browser based GUI for viewing spectra in real time  
+- [HyTools](https://github.com/EnSpec/hytools) : Collaborative effort with other members of the ENSPEC lab to
+  develop tools for processing imaging spectoscopy data
+- [pypwaves](https://github.com/adamchlus/pypwaves) : Full waveform LiDAR reading and processing library
+- [specIO](https://github.com/adamchlus/specIO) : Field spectrometer data reader (ASD, OO, SE and SVC)
+- [specGUI](https://github.com/adamchlus/specGUI) : A browser based GUI for viewing spectra in real time
 
 
 # Tools
 
 {% include gallery id="gallery4" layout = '' %}
 
-	
+
