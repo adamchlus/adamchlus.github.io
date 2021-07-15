@@ -19,23 +19,23 @@ header:
 
 ## Experience
 
-**Jet Propulsion Laboratory, Pasadena, CA								2021 – Present**
+**Jet Propulsion Laboratory, Pasadena, CA								2021 – Present**  
   *Postdoctoral Researcher*  
   - Developing and implementing algorithm workflows for generating high-level products from airborne and spaceborne imaging spectroscopy data
     including atmospherically corrected reflectance and aquatic and terrestrial science data products.
 
-**University of Wisconsin, Madison, WI					              	          2015 – 2020**
+**University of Wisconsin, Madison, WI					              	          2015 – 2020**  
   *Graduate Research Assistant*  
   - Investigated the use of field, airborne and spaceborne spectroscopy for estimating foliar chemical composition.
   - Developed open source software for processing imaging spectroscopy and lidar remote sensing data.
 
-**University of Connecticut, Avery Point, CT							2014 – 2015**
+**University of Connecticut, Avery Point, CT							2014 – 2015**  
   *Research Assistant*  
   - Conducted field work and research to investigate the use of multi- and hyperspectral remote
 	sensing platforms for identifying and tracking floating aquatic vegetation.
   - Developed methods for detecting algal blooms using a spaceborne hyperspectral imager.
 
-**Jet Propulsion Laboratory, Pasadena, CA								2014**
+**Jet Propulsion Laboratory, Pasadena, CA								2014**  
   *Suborbital Radar Science Intern*  
   - Used multi-platform remote sensing products to characterize long-term patterns in growth and
 	disturbance in a boreal forest ecosystem.
@@ -43,12 +43,12 @@ header:
 	and optical remote sensing datasets for the retrieval of forest characteristics including biomass,
 	height and species composition.
 
-**NASA Ames Research Center, Moffett Field, CA							2013**
+**NASA Ames Research Center, Moffett Field, CA							2013**  
   *Contractor, Science Systems Applications Inc.*  
   - Collaborated with a team of scientists to investigate the relationships between landscape
 	disturbance and bird populations using Earth observing satellites.
 
-**University of Connecticut, Storrs, CT 2012 - 2014**
+**University of Connecticut, Storrs, CT 2012 - 2014**  
   *GIS Technician*  
   - Created, maintained and updated geospatial databases for architectural and engineering department.
   - Produced maps for planning and development purposes.
