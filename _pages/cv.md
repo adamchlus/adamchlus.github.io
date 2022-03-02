@@ -11,31 +11,31 @@ header:
 
 ## Education
 
-- **University of Wisconsin, Madison, WI**  
+- **University of Wisconsin, Madison, WI**
 	PhD Forestry 2020
-- **University of Connecticut, Storrs, CT**  
-	MS Natural Resources 2015  
-	BS Environmental Science 2011  
+- **University of Connecticut, Storrs, CT**
+	MS Natural Resources 2015
+	BS Environmental Science 2011
 
 ## Experience
 
-**Jet Propulsion Laboratory, Pasadena, CA** (2021 – Present)  
+**Jet Propulsion Laboratory, Pasadena, CA** (2021 – Present)
   *Postdoctoral Researcher*
   - Developing and implementing algorithm workflows for generating high-level products from airborne and spaceborne imaging spectroscopy data
     including atmospherically corrected reflectance and aquatic and terrestrial science data products.
 
-**University of Wisconsin, Madison, WI** (2015 – 2020)  
+**University of Wisconsin, Madison, WI** (2015 – 2020)
   *Graduate Research Assistant*
   - Investigated the use of field, airborne and spaceborne spectroscopy for estimating foliar chemical composition.
   - Developed open source software for processing imaging spectroscopy and lidar remote sensing data.
 
-**University of Connecticut, Avery Point, CT** (2014 – 2015)  
+**University of Connecticut, Avery Point, CT** (2014 – 2015)
   *Research Assistant*
   - Conducted field work and research to investigate the use of multi- and hyperspectral remote
 	sensing platforms for identifying and tracking floating aquatic vegetation.
   - Developed methods for detecting algal blooms using a spaceborne hyperspectral imager.
 
-**Jet Propulsion Laboratory, Pasadena, CA** (2014)  
+**Jet Propulsion Laboratory, Pasadena, CA** (2014)
   *Suborbital Radar Science Intern*
   - Used multi-platform remote sensing products to characterize long-term patterns in growth and
 	disturbance in a boreal forest ecosystem.
@@ -43,12 +43,12 @@ header:
 	and optical remote sensing datasets for the retrieval of forest characteristics including biomass,
 	height and species composition.
 
-**NASA Ames Research Center, Moffett Field, CA** (2013)  
+**NASA Ames Research Center, Moffett Field, CA** (2013)
   *Contractor, Science Systems Applications Inc.*
   - Collaborated with a team of scientists to investigate the relationships between landscape
 	disturbance and bird populations using Earth observing satellites.
 
-**University of Connecticut, Storrs, CT** (2012 - 2014)  
+**University of Connecticut, Storrs, CT** (2012 - 2014)
   *GIS Technician*
   - Created, maintained and updated geospatial databases for architectural and engineering department.
   - Produced maps for planning and development purposes.
@@ -60,6 +60,12 @@ header:
 - GDAL, QGIS, ENVI, Ecognition, ERDAS Imagine, ArcGIS
 
 ## Publications
+- Greenberg E., Thompson D.R., Jensen D.J., Townsend P.A., Queally N., **Chlus A.**, Fichot C.G., Harringmeyer J.
+Simard M. (2022). An improved scheme for correcting remote spectral surface reflectance simultaneously for terrestrial BRDF
+and water-surface sunglint in coastal environments. Journal of Geophysical Research: Biogeosciences, 127(1).
+- Queally N., Ye Z., Zheng T., **Chlus A.**, Schneider F., Pavlick R.P., & Townsend P.A. (2022).
+FlexBRDF: A flexible BRDF correction for grouped processing of airborne imaging spectroscopy flightlines.
+Journal of Geophysical Research: Biogeosciences, 127(1).
 - **Chlus A.**, Kruger E.L., Townsend P.A. (2020) Mapping leaf mass per area in three dimensions with
 imaging spectroscopy and lidar in a temperate broadleaf forest. *Remote Sensing of Environment*. 250.
 - Meireles J.E., Cavender‐Bares J., Townsend P.A., Ustin S., Gamon J.A., Schweiger A.K., Schaepman M.E.,
@@ -88,14 +94,15 @@ discrimination of floating mats of seagrass wrack and the macroalgae Sargassum i
 Greater Florida Bay using airborne remote sensing. *Remote Sensing of Environment*. 167: 247-258.
 
 ## Presentations
-
-- **Chlus, A**, Singh A., Kruger E., Townsend P. Patterns and Drivers of Interannual Variation in
+- **Chlus A.**, Townsend P.A. Characterizing Seasonal Variation in Foliar Biochemistry with Airborne Imaging Spectroscopy.
+  AGU. New Orleans, LA. 2021
+- **Chlus A.**, Singh A., Kruger E., Townsend P.A. Patterns and Drivers of Interannual Variation in
   Canopy Biochemistry: an Analysis of the 27-year Record of Imaging Spectroscopy Data Over Blackhawk
   Island, WI (1992-2019). AGU. San Francisco, CA. 2019
-- **Chlus, A.**, Wang, Z., Kruger, E., Townsend, P. Integration of NEON imaging spectroscopy and lidar data for 3-dimensional canopy trait mapping. ForestSAT. College Park, MD. 2018
-- **Chlus, A.**, Townsend, P., Wang, Z., Singh, A. Remote sensing spectroscopy to discriminate plant functional types and physiological function. IEEE Geoscience and Remote Sensing Society Annual Conference. Fort Worth, TX. 2017
-- **Chlus, A.**, Singh, A., Townsend, P. Apparent drivers of forest functional trait retrievals in imaging spectroscopy data. Ecological Society of America Annual Conference. Fort Lauderdale, FL. 2016
-- **Chlus, A.**, Dierssen, H. Discrimination of floating coastal vegetation using airborne
+- **Chlus A.**, Wang Z., Kruger, E., Townsend, P.A. Integration of NEON imaging spectroscopy and lidar data for 3-dimensional canopy trait mapping. ForestSAT. College Park, MD. 2018
+- **Chlus A.**, Townsend P.A., Wang, Z., Singh, A. Remote sensing spectroscopy to discriminate plant functional types and physiological function. IEEE Geoscience and Remote Sensing Society Annual Conference. Fort Worth, TX. 2017
+- **Chlus A.**, Singh A., Townsend, P.A. Apparent drivers of forest functional trait retrievals in imaging spectroscopy data. Ecological Society of America Annual Conference. Fort Lauderdale, FL. 2016
+- **Chlus A.**, Dierssen H. Discrimination of floating coastal vegetation using airborne
   hyperspectral imagery. NASA Ocean Color Remote Sensing Team Conference. Washington D.C. 2014
 
 
