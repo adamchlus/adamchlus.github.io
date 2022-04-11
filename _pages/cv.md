@@ -61,7 +61,7 @@ header:
 
 ## Publications
 - **Chlus A.**, Townsend P.A. (2022). Characterizing seasonal variation in foliar biochemistry
-with airborne imaging spectroscopy *Remote Sensing of Environment*. 275, 113023.
+with airborne imaging spectroscopy. *Remote Sensing of Environment*. 275, 113023.
 - Greenberg E., Thompson D.R., Jensen D.J., Townsend P.A., Queally N., **Chlus A.**, Fichot C.G., Harringmeyer J.
 Simard M. (2022). An improved scheme for correcting remote spectral surface reflectance simultaneously for terrestrial BRDF
 and water-surface sunglint in coastal environments. Journal of Geophysical Research: Biogeosciences, 127(1).
