@@ -60,14 +60,16 @@ header:
 - GDAL, QGIS, ENVI, Ecognition, ERDAS Imagine, ArcGIS
 
 ## Publications
+- **Chlus A.**, Townsend P.A. (2022).Characterizing seasonal variation in foliar biochemistry
+with airborne imaging spectroscopy *Remote Sensing of Environment*. 275, 113023.
 - Greenberg E., Thompson D.R., Jensen D.J., Townsend P.A., Queally N., **Chlus A.**, Fichot C.G., Harringmeyer J.
 Simard M. (2022). An improved scheme for correcting remote spectral surface reflectance simultaneously for terrestrial BRDF
 and water-surface sunglint in coastal environments. Journal of Geophysical Research: Biogeosciences, 127(1).
 - Queally N., Ye Z., Zheng T., **Chlus A.**, Schneider F., Pavlick R.P., & Townsend P.A. (2022).
 FlexBRDF: A flexible BRDF correction for grouped processing of airborne imaging spectroscopy flightlines.
 Journal of Geophysical Research: Biogeosciences, 127(1).
-- **Chlus A.**, Kruger E.L., Townsend P.A. (2020) Mapping leaf mass per area in three dimensions with
-imaging spectroscopy and lidar in a temperate broadleaf forest. *Remote Sensing of Environment*. 250.
+- **Chlus A.**, Kruger E.L., Townsend P.A. (2020). Mapping leaf mass per area in three dimensions with
+imaging spectroscopy and lidar in a temperate broadleaf forest. *Remote Sensing of Environment*. 250, 112043.
 - Meireles J.E., Cavender‐Bares J., Townsend P.A., Ustin S., Gamon J.A., Schweiger A.K., Schaepman M.E.,
 Asner G.A, Martin R.E, Singh A., Schrodt F., **Chlus A.**, O'Meara B.C. (2020). Leaf reflectance spectra
 capture the evolutionary history of seed plants. *New Phytologist*. 228(2), 485-493.
@@ -107,10 +109,11 @@ Greater Florida Bay using airborne remote sensing. *Remote Sensing of Environmen
 
 
 ## Honors and Awards
-- NASA Data Visualization and Storytelling Competition Runner-up ($1000)   **2019**
-- Hackaday Prize Semifinalist ($1000)							           **2016**
-- 1st place UConn CANR Graduate Research Forum 						       **2014**
-- 1st place NASA Ames Summer Poster Session 						       **2013**
+- Best Forestry Dissertation - UW-Madison                                   **2022**
+- NASA Data Visualization and Storytelling Competition Runner-up            **2019**
+- Hackaday Prize Semifinalist                           		             **2016**
+- 1st place UConn CANR Graduate Research Forum 						         **2014**
+- 1st place NASA Ames Summer Poster Session 						         **2013**
 
 ## Outreach and Mentoring
 -  Minorities in Agriculture, Natural Resources and Related Sciences Youth Leadership Institute **2017**
