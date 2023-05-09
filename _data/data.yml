@@ -62,7 +62,7 @@ education:
         university: University of Connecticut
         time: 2012 - 2015
         details:
-      - degree: BSc in Environmental Scence
+      - degree: BSc in Environmental Science
         university: University of Connecticut
         time: 2007 - 2011
         details:
@@ -95,7 +95,7 @@ experiences:
         company: NASA Ames Research Center
         details: 
       - role: GIS Technician
-        time: 2012-2014
+        time: 2012 - 2014
         company: University of Connecticut
         details: 
 
