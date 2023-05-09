@@ -27,6 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    scholar: https://scholar.google.com/citations?user=0BdzkDgAAAAJ&hl
     pdf: https://github.com/adamchlus/adamchlus.github.io/tree/master/assets/Adam_Chlus_CV_20230503.pdf
 
     interests:
