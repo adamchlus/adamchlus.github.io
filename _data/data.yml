@@ -105,7 +105,7 @@ oss:
     contributions:
       - title: HyTools
         link: "https://github.com/EnSpec/hytools"
-        tagline: "Python library for processing airborne and spaceborne imaging spectroscopy data."
+        tagline: "Python library for processing imaging spectroscopy data."
 
       - title: pypwaves
         link: "https://github.com/adamchlus/pypwaves"
