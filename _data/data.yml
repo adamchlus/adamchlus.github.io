@@ -1,0 +1,205 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Adam Chlus
+    tagline: Technologist
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: 
+    phone: 
+    timezone: 
+    citizenship:
+    website: 
+    linkedin: 
+    xing: 
+    github: adamchlus
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: 
+
+    interests:
+      title: 
+      info:
+        - item: 
+          link:
+
+        - item: 
+          link:
+
+        - item: 
+          link:
+
+career-profile:
+    title: Adam Chlus
+    summary: |
+      I’m a technologist at the Jet Propulsion Laboratory where I am developing and implementing algorithm workflows
+      for airborne and spaceborne imaging spectroscopy data. I also use remote sensing data to
+      to monitor and measure important ecological properties. I use a variety of tools in my 
+      research including field spectrometers, airborne and spaceborne imaging spectrometers and lidar. Along the way I have also designed and built 
+      custom tools for collecting samples, making measurements and processing data.
+
+education:
+    title: Education
+    info:
+      - degree: PhD in Forestry
+        university: University of Wisconsin-Madison
+        time: 2015 - 2020
+        details: 
+      - degree: MSc in Natural Resources
+        university: University of Connecticut
+        time: 2012 - 2015
+        details:
+      - degree: BSc in Environmental Scence
+        university: University of Connecticut
+        time: 2007 - 2011
+        details:
+
+experiences:
+    title: Experience
+    info:
+      - role: Research Technologist
+        time: 2023 - Present
+        company: Jet Propulsion Laboratory
+        details: 
+      - role: Postdoctoral Fellow
+        time: 2021 - 2023
+        company: Jet Propulsion Laboratory
+        details: 
+      - role: Graduate Research Assistant
+        time: 2015 - 2020
+        company: University of Wisconsin-Madison
+        details: 
+      - role: Research Assistant
+        time: 2013 - 2025
+        company: University of Connecticut
+        details: 
+      - role: Suborbital radar intern
+        time: 2014
+        company: Jet Propulsion Laboratory
+        details: 
+      - role: DEVELOP Intern
+        time: 20133
+        company: NASA Ames Research Center
+        details: 
+      - role: Suborbital radar intern
+        time: 2021-2014
+        company: Jet Propulsion Laboratory
+        details: 
+
+oss:
+    title: Software
+    intro:
+    contributions:
+      - title: HyTools
+        link: "https://github.com/EnSpec/hytools"
+        tagline: "Python library for processing airborne and spaceborne imaging spectroscopy data."
+
+      - title: pypwaves
+        link: "https://github.com/adamchlus/pypwaves"
+        tagline: "Python library for reading and processing full waveform LiDAR data."
+
+
+projects:
+    title: Projects
+    assignments:
+      - title: VNIR Spectrometer
+        link: "https://hackaday.io/project/12724-handheld-vnir-spectrometer"
+        tagline: "A small portable VNIR spectrometer."
+
+      - title: PULSE
+        link: "https://hackaday.io/project/12125-pulse-profiling-underwater-light-sensor"
+        tagline: "Profiling Underwater Light SEnsor."
+
+
+
+publications:
+    title: Publications
+    papers:
+      - title: "Generality of leaf spectroscopic models for predicting key foliar functional traits across continents: A comparison between physically- and empirically-based approaches"
+        link: "https://doi.org/10.1016/j.rse.2023.113614"
+        authors: Wang Z., Feret JB., Liu N., Sun Z., Yang L., Geng S., Zhang H., Chlus A., Kruger E.L., Townsend P.A. 
+        conference: "Remote Sensing of Environment 2023"
+      - title: "Simulating global dynamic surface reflectances for imaging spectroscopy spaceborne missions-LPJ-PROSAIL"
+        link: "https://doi.org/10.1029/2022JG006935"
+        authors: Poulter B., Currey B., Calle L., Shiklomanov A.N., Amaral C.H., Brookshire E.J., Campbell P., Chlus A., … & Zhang Z
+        conference: "Journal of Geophysical Research: Biogeoscience 2022"
+      - title: "Exploring mission design for imaging spectroscopy retrievals for land and aquatic ecosystems"
+        link: " https://doi.org/10.1029/2022JG006833"
+        authors: Raiho, A., Cawse-Nicholson, K., Chlus, A., Dozier, J., Gierach, M. M., Miner, K., ... & Poulter, B
+        conference: "Journal of Geophysical Research: Biogeoscience 2022"
+      - title: "Characterizing seasonal variation in foliar biochemistry with airborne imaging spectroscopy"
+        link: "https://doi.org/10.1016/j.rse.2022.113023"
+        authors: Chlus, A. & Townsend, P. A. 
+        conference: Remote Sensing of Environment 2022
+      - title: "An improved scheme for correcting remote spectral surface reflectance simultaneously for terrestrial BRDF and water-surface sunglint in coastal environments"
+        link: "https://doi.org/10.1029/2021JG006712"
+        authors: Greenberg E., Thompson D.R., Jensen D.J., Townsend P.A., Queally N., Chlus A., Fichot C.G., Harringmeyer J., Simard M
+        conference: "Journal of Geophysical Research: Biogeoscience 2022"
+      - title: "A flexible BRDF correction for grouped processing of airborne imaging spectroscopy flightlines"
+        link: " https://doi.org/10.1029/2021JG006622"
+        authors: Queally N., Ye Z., Zheng T., Chlus A., Schneider F., Pavlick R.P., & Townsend P.A.  
+        conference: "Journal of Geophysical Research: Biogeoscience 2022"
+      - title: "Mapping three-dimensional variation in leaf mass per area with imaging spectroscopy and lidar."
+        link: "https://doi.org/10.1016/j.rse.2020.112043"
+        authors: Chlus A., Kruger E.L., Townsend P.A
+        conference: Remote Sensing of Environment 2020
+      - title: "Leaf reflectance spectra capture the evolutionary history of seed plants"
+        link: " https://doi.org/10.1111/nph.16771"
+        authors: Meireles J. E., Cavender-Bares J., Townsend P., Ustin S., Gamon J., Schweiger A., Schaepman M., Asner G., Martin R., Singh A., Schrodt F., Chlus A., O'Meara B
+        conference: New Phytologist 2020
+      - title: "A database foliar functional trait maps across NEON domains in the eastern U.S."
+        link: "https://doi.org/10.1111/nph.16711"
+        authors: Wang Z., Chlus A., Geygan R., Ye Z., Zheng T., Singh A., Couture J.J., Cavender-Bares J., Kruger E.L., Townsend P.A.  
+        conference: New Phytologist 2020
+      - title: "Hyperspectral measurements enable pre-symptomatic detection and differentiation of contrasting physiological effects of late blight and early blight in potato"
+        link: "https://doi.org/10.3390/rs12020286"
+        authors: Gold K.M., Townsend P.A., Chlus A., Herrmann I., Couture J.J., Larson E.R., Gevens A.J. 
+        conference: Remote Sensing 2020
+      - title: "From the Arctic to the tropics: multi-biome prediction of leaf mass per area using leaf reflectance."
+        link: "https://doi.org/10.1111/nph.16123"
+        authors: Serbin S.P., Wu J., Ely K.S., Kruger E.L., Townsend P.A., Meng R., Wolfe B.T., Chlus A., Wang Z., Rogers A.
+        conference: New Phytologist 2019
+      - title: "Pushing the limits of seagrass remote sensing in the turbid waters of Elkhorn Slough, California."
+        link: "https://doi.org/10.3390/rs11141664"
+        authors: Dierssen H.M., Bostrom K.J., Chlus A., Hammerstrom K., Thompson D.R., Lee Z. 
+        conference: Remote Sensing 2019
+      - title: "Impacts of coal dust from an active mine on the spectral reﬂectance of Arctic surface snow in Svalbard, Norway"
+        link: "https://doi.org/10.1002/2016JD025757"
+        authors: Khan, A. L., Dierssen H., Schwarz J.P., Schmitt C., Chlus A., Hermanson M., Painter T. H., McKnight D. M.
+        conference: "Journal of Geophysical Research: Atmospheres 2017"
+      - title: "Space station captures a red tide ciliate bloom at high spectral and spatial resolution."
+        link: "https://doi.org/10.1073/pnas.1512538112"
+        authors: Dierssen H., McManus G.B., Chlus A., Qiu D., Bo-Cai G., Lin S.
+        conference: "Proceedings of the National Academy of Sciences 2015"
+      - title: "Hyperspectral discrimination of floating mats of seagrass wrack and the macroalgae Sargassum in coastal waters of Greater Florida Bay using airborne remote sensing."
+        link: "https://doi.org/10.1016/j.rse.2015.01.027"
+        authors: Dierssen H. M., Chlus A., Russell B.
+        conference: Remote Sensing of Environment 2015
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 90%
+      - name: R
+        level: 50%
+      - name: C
+        level: 25%
+
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
