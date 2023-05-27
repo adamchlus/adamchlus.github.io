@@ -188,14 +188,3 @@ publications:
         link: "https://doi.org/10.1016/j.rse.2015.01.027"
         authors: Dierssen H. M., Chlus A., Russell B.
         conference: Remote Sensing of Environment 2015
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        level: 90%
-      - name: R
-        level: 50%
-      - name: C
-        level: 25%
